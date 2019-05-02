@@ -1,0 +1,22 @@
+form {
+  z-index: 2;
+  color: #fff;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+input {
+  height: 26px;
+  font-size: 14px;
+  width: 200px;
+  line-height: 20px;
+  padding: 0 5px 0 5px;
+  box-sizing: border-box;
+  /* border: none; */
+  outline: none;
+  border-radius: 50px;
+  border: 1px solid #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
